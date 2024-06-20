@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Anandawahyan/TravelEase-MinionSquad/blob/main/TravelEaseMDTransparan.png" alt='Jualin logo' width=800/>
+<img src="https://github.com/Anandawahyan/TravelEase-MinionSquad/blob/main/TravelEaseMD/TravelEaseMDTransparan.png" alt='Jualin logo' width=800/>
 
 # TravelEase-MinionSquad
 Automatic itinerary maker android app
@@ -24,8 +24,12 @@ This application uses Firebase Authentication for user authentication. This feat
 - **User Login:** Users who already have an account can log in using their email and password. As long as users do not log out, they will be directed to the main page each time they open the application without having to log in again.
 - **Custom View:** The login and registration pages use a custom view specifically for the password field to enhance security and convenience.
 
+<img src="https://github.com/Anandawahyan/TravelEase-MinionSquad/blob/main/TravelEaseMD/UserAu.png" alt='Jualin logo' width=600/>
+
 ### 2. User Profile
 Users can view their personal information such as name and email on their profile page.
+
+<img src="https://github.com/Anandawahyan/TravelEase-MinionSquad/blob/main/TravelEaseMD/UserProfile.png" alt='Jualin logo' width=600/>
 
 ### 3. Create Itinerary
 This feature allows users to create travel plans according to their preferences, with several sub-features as follows:
@@ -37,17 +41,25 @@ This feature allows users to create travel plans according to their preferences,
 - **Cost Tracking:** Users can view the calculated entry ticket prices for the itinerary they have created.
 - **Save Itinerary:** Users can save all the itineraries they have created.
 
+<img src="https://github.com/Anandawahyan/TravelEase-MinionSquad/blob/main/TravelEaseMD/CreateItinerary.png" alt='Jualin logo' width=700/>
+
 ### 4. Destination Details
 Users can click on a destination item to see more details about the destination. A Google Maps link is also provided to view the location information of the tourist destination.
 
+<img src="https://github.com/Anandawahyan/TravelEase-MinionSquad/blob/main/TravelEaseMD/DestinationDetails.png" alt='Jualin logo' width=600/>
+
 ### 5. Edit Itinerary
 Users can reopen and edit the itinerary they have created, including deleting, searching, and adding destinations.
+
+<img src="https://github.com/Anandawahyan/TravelEase-MinionSquad/blob/main/TravelEaseMD/EditItinerary.png" alt='Jualin logo' width=600/>
 
 ### 6. Delete Itinerary
 This feature provides two itinerary deletion options:
 
 - **Delete Selected Itinerary:** Users can delete one or more itineraries by selecting the items they want to delete.
 - **Delete All Itinerary:** Users can delete all itineraries at once by pressing the "Delete All" menu.
+
+<img src="https://github.com/Anandawahyan/TravelEase-MinionSquad/blob/main/TravelEaseMD/DeleteItinerary.png" alt='Jualin logo' width=600/>
 
 ## ⚙️ Technologies Used
 
